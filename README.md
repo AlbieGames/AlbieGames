@@ -11,6 +11,7 @@ LANGUAGES I KNOW...
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/bash.svg"></img>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/java.svg"></img>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/python.svg"></img>
+<img src="https://download.logo.wine/logo/Lua_(programming_language)/Lua_(programming_language)-Logo.wine.png"></img>
 
 THANK YOU FOR CHECKING ABOUT ME.
 
